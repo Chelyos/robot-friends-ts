@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Chelyos/robot-friends-ts.git/static/css/main.38186129.chunk.css",
+    "main.js": "/Chelyos/robot-friends-ts.git/static/js/main.4aec512a.chunk.js",
+    "main.js.map": "/Chelyos/robot-friends-ts.git/static/js/main.4aec512a.chunk.js.map",
+    "runtime-main.js": "/Chelyos/robot-friends-ts.git/static/js/runtime-main.2a4d72b9.js",
+    "runtime-main.js.map": "/Chelyos/robot-friends-ts.git/static/js/runtime-main.2a4d72b9.js.map",
+    "static/js/2.3894cd9b.chunk.js": "/Chelyos/robot-friends-ts.git/static/js/2.3894cd9b.chunk.js",
+    "static/js/2.3894cd9b.chunk.js.map": "/Chelyos/robot-friends-ts.git/static/js/2.3894cd9b.chunk.js.map",
+    "index.html": "/Chelyos/robot-friends-ts.git/index.html",
+    "precache-manifest.bd573c13c4f8b5e0c49fb8676f086a60.js": "/Chelyos/robot-friends-ts.git/precache-manifest.bd573c13c4f8b5e0c49fb8676f086a60.js",
+    "service-worker.js": "/Chelyos/robot-friends-ts.git/service-worker.js",
+    "static/css/main.38186129.chunk.css.map": "/Chelyos/robot-friends-ts.git/static/css/main.38186129.chunk.css.map",
+    "static/js/2.3894cd9b.chunk.js.LICENSE.txt": "/Chelyos/robot-friends-ts.git/static/js/2.3894cd9b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Chelyos/robot-friends-ts.git/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a4d72b9.js",
+    "static/js/2.3894cd9b.chunk.js",
+    "static/css/main.38186129.chunk.css",
+    "static/js/main.4aec512a.chunk.js"
+  ]
+}
