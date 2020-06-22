@@ -1,0 +1,35 @@
+.card-rotate{
+    transition : .5s ease;
+    perspective: 1500rem;
+    -moz-perspective: 1500rem;
+    position: relative;
+
+    &__side{
+        background-color: red($color: #555555);
+        backface-visibility: hidden;
+
+        &--back{
+            transform: rotateY(180deg);
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            left: 0;
+            bottom:0;
+            padding : 2rem;
+        }
+    }
+
+    &:hover{
+        opacity: 0.9;
+        background: white;
+        transform: scale(1.05);;
+    }
+
+    &:active &__side--front{
+        transform: rotateY(-180deg);
+    }
+
+    &:active &__side--back{
+        transform: rotateY(0);
+    }
+}
